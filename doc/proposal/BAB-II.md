@@ -73,7 +73,7 @@ tujuan dimana use case ini menggambarkan kebutuhan fungsional suatu sistem tanpa
     Gambar 1.2 PHP
 </p>
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHP (Personal Homepage, namun lebih populer sebagai Hypertext Proproser) merupakan bahasa scripting yang bersifat server side, yang diartikan bahwa kode PHP akan dieksekusi oleh webserver dan hasil eksekusi tersebut akan dikirim dalam bentuk HTML ke browser client. HTML merupakan file umum yang dijalankan oleh browser. Dengan demikian , client tidak dapat melihat kode PHP yang dibuat oleh developer website, tetapi hanya bisa melihat kode HTML yang merupakan hasil olahan dari Engine PHP. Agar webserver (Apache) dapat mengolah file PHP ini maka diperlukan aplikasi PHP yang kita sebut sebagai Engine PHP untuk ditanamkan bersama aplikasi weberver tersebut.[4]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHP (Personal Homepage, namun lebih populer sebagai Hypertext Proproser) merupakan bahasa scripting yang bersifat server side, yang diartikan bahwa kode PHP akan dieksekusi oleh webserver dan hasil eksekusi tersebut akan dikirim dalam bentuk HTML ke browser <i>client</i>. HTML merupakan file umum yang dijalankan oleh browser. Dengan demikian , client tidak dapat melihat kode PHP yang dibuat oleh developer website, tetapi hanya bisa melihat kode HTML yang merupakan hasil olahan dari Engine PHP. Agar webserver (Apache) dapat mengolah file PHP ini maka diperlukan aplikasi PHP yang kita sebut sebagai Engine PHP untuk ditanamkan bersama aplikasi weberver tersebut.[4]
 </p>
 <br>
 <strong>2.6	Database</strong>

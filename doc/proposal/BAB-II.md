@@ -25,7 +25,7 @@ Unit kegiatan mahasiswa terdiri dari tiga kelompok minat:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gambar menjelaskan bahwa metode Waterfall menekankan pada sebuah keterurutan dalam proses pengembangan perangkat lunak. Metode ini adalah sebuah metode yang tepat untuk membangun sebuah perangkat lunak yang tidak terlalu besar dan sumber daya manusia yang terlibat dalam jumlah yang terbatas.
 <br>
 <p align="center">
-    <img src="../../img/proposal/waterfall.png" width="650" height="300">
+    <img src="../../img/proposal/waterfall.PNG" width="650" height="300">
     <br>
     Gambar 1.1 Pengembangan Sistem dengan Metode Waterfall
 <br>
